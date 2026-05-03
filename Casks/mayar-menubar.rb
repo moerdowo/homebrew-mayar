@@ -1,6 +1,6 @@
 cask "mayar-menubar" do
-  version "0.1.1"
-  sha256 "c4610fd7f44c853e6ea3ab38ffe26562d20f725dffd53f43903bee746eda9e29"
+  version "0.1.2"
+  sha256 "b04c0eb2f783c4e707f3f6bcb155a1df6ccdd73ee1299b4951d024c3d86b1327"
 
   url "https://github.com/moerdowo/mayar-mac-menubar/releases/download/v#{version}/MayarMenuBar-#{version}.dmg"
   name "Mayar Menu Bar"
